@@ -51,3 +51,72 @@ A guide page for International Student in Japan
 
 </body>
 </html>
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding-bottom: 50px; 
+  padding-top: 50px;
+}
+
+h1 {
+  color: #333;
+  font-size: 70px;
+  background-color: #eae4ab;
+}
+
+h2 {
+  color: #eae4ab;
+  font-size: 50px;
+}
+
+#big-image img {
+  max-width: 100%; 
+  height: auto; 
+}
+
+.subtitle {
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  margin: 20px 0;
+}
+
+.subtitle h2 {
+  font-size: 10px;
+  margin-bottom: 5px; 
+  background-color: #eae4ab;
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px 0;
+  background-color: #eae4ab;
+}
+
+.image-container img {
+  width: 150px;
+  cursor: pointer;
+}
+
+.additional-text {
+  display: flex;
+  justify-content: center;
+  background-color: #eae4ab;
+}
+
+.additional-text div {
+  margin: 0 130px; 
+  background-color: #eae4ab;
+}
+
+.additional-text figcaption img {
+  width: 150px; 
+  height: 150px;
+  object-fit: cover;
+  background-color: #eae4ab;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
