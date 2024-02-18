@@ -1,5 +1,3 @@
-# International-Student-Support
-A guide page for International Student in Japan
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -50,6 +48,8 @@ A guide page for International Student in Japan
      </div>
 
 </body>
+
+
 </html>
 body {
   text-align: center;
